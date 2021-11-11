@@ -21,3 +21,6 @@ v) ISOMAP
 vi) UMAP
 
  
+**Conclusion**
+
+UMAP is the better dimensionality reduction technique that can be opted for both tabular and image dataset as the clusters are seperated well when compared to rest of all the other dimenionality reduction techniques plots. Aso in all other plots could observe that the clusters are being overlapped which might not provide a better accuracy while building an ML model.
